@@ -3,14 +3,13 @@
 Jovan Milicev
 linkedin.com/in/jovan-milicev/ | github.com/jmilicev 
 
-# About me
-
-Education
+# Education
+```
 York University April 2023 Honours BA, Computer Science Toronto, ON
 • GPA: 3.8
 • Data Structures and Algorithms, Computer Architecture, Advanced Object Oriented Programming, Distributed
 Systems, Database Management Systems, Computer Networking.
-
+```
 
 # Projects
 
