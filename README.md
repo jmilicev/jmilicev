@@ -22,7 +22,7 @@ Distributed Go Chat Website | Go, JS, Kubernetes
 messages that are only broadcasted to clients and not stored on the server
 • Built using Docker and deployed on a Kubernetes cluster using a private goHarbour repository
 
-Novel Programming Language | ANTLR4
+Novel Programming Language | Java, ANTLR4
 • Developed a novel programming language using the ANTLR4 parser and Java
 • Language capable of performing variable declarations, assignment, math operations and boolean operations
 • Language also capable of correctly executing n-nested if statements, recursion, and function calls
