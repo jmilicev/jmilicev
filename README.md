@@ -2,7 +2,7 @@
 
 ```
 Jovan Milicev
-linkedin.com/in/jovan-milicev/ | github.com/jmilicev 
+jovanmilicev.com | linkedin.com/in/jovan-milicev
 ```
 
 # Education
