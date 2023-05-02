@@ -1,7 +1,9 @@
 # Welcome to my profile!
 
+```
 Jovan Milicev
 linkedin.com/in/jovan-milicev/ | github.com/jmilicev 
+```
 
 # Education
 ```
