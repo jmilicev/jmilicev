@@ -18,9 +18,9 @@ Systems, Database Management Systems, Computer Networking.
 ```
 
 CV Webpage | React, JS
-• Developed a CV webpage in React.js complete with animations and dynamic page building.
-• Purchased and configured domain jovanmilicev.com and linked it to jmilicev.github.io by modifying A records.
-• Site is currently live @ jovanmilicev.com, and is continuously being updated!
+• Developed a dynamic and visually appealing portfolio website using React.js, featuring personal projects, skills, and experience to showcase to potential clients and employers.
+• Utilized GitHub Pages to host and deploy the website, ensuring seamless access and efficient delivery to users.
+• Continuously updated and maintained the website, adding new projects and improving functionality to enhance user experience and showcase new skills and experience
 
 Distributed Go Chat Website | Go, JS, Kubernetes
 • Developed a chat-app with golang backend and javascript frontend using websockets
