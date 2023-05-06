@@ -18,9 +18,11 @@ Systems, Database Management Systems, Computer Networking.
 ```
 
 CV Webpage | React, JS
-• Developed a dynamic and visually appealing portfolio website using React.js, featuring personal projects, skills, and experience to showcase to potential clients and employers.
+• Developed a dynamic and visually appealing portfolio website using React.js, featuring personal projects, skills,
+and experience to showcase to potential clients and employers.
 • Utilized GitHub Pages to host and deploy the website, ensuring seamless access and efficient delivery to users.
-• Continuously updated and maintained the website, adding new projects and improving functionality to enhance user experience and showcase new skills and experience
+• Continuously updated and maintained the website, adding new projects and improving functionality to enhance user 
+experience and showcase new skills and experience
 
 Distributed Go Chat Website | Go, JS, Kubernetes
 • Developed a chat-app with golang backend and javascript frontend using websockets
