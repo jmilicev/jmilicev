@@ -46,10 +46,6 @@ FinanceBot | Python, Discord API
 • Used asynchronous programming to serve multiple user requests simultaneously
 • Answers questions about stock price, stock options, company type and performs various financial calculations
 
-Gaming Website | NodeJS, Express, Passport
-• Express website with multiple functions and pages
-• Implements encryption-based login system to authenticate users and personalize accordingly
-• Contains simple games coded in JavaScript such as Tic Tac Toe
 ```
 <!--
 **jmilicev/jmilicev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
