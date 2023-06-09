@@ -36,7 +36,7 @@ GPT-website | Next, JS, OpenAI API
 • Used my own node package openai-toolkit to handle API calls to the OpenAI service.
 • Allows users to configure their spending in tokens and the creativity of the model.
 • Estimates the cost to the user depending on the size of the prompt and the response.
-• Actively being developed!
+• Actively being developed! live @ jovanmilicev.com/GPT-website
 
 Distributed Go Chat Website | Go, JS, Kubernetes
 • Developed a chat-app with golang backend and javascript frontend using websockets
