@@ -24,9 +24,16 @@ and experience to showcase to potential clients and employers.
 • Continuously updated and maintained the website, adding new projects and improving functionality to enhance user 
 experience and showcase new skills and experience
 
+openai-toolkit | JS, HTTP
+• Developed a public and published node package that handles API calls to the OpenAI API service.
+• Significantly simplifies using the OpenAI API, making it even easier than their own node package.
+• Returns the output from OpenAI in the form of a stream through a callback function.
+• This output can easily be integrated in a project without the need for parsing like other packages.
+• Created `GPT-website` as a demo of its capabilities using this package as the backend.
+
 GPT-website | Next, JS, OpenAI API
 • Developed a React website that allows users to interact with OpenAI language models.
-• The website allows users to have conversations with OpenAI language models and get responses based on the input they provide.
+• Used my own node package openai-toolkit to handle API calls to the OpenAI service.
 • Allows users to configure their spending in tokens and the creativity of the model.
 • Estimates the cost to the user depending on the size of the prompt and the response.
 • Actively being developed!
