@@ -27,6 +27,7 @@ experience and showcase new skills and experience
 openai-toolkit | JS, HTTP
 • Developed a public and published node package that handles API calls to the OpenAI API service.
 • Significantly simplifies using the OpenAI API, making it even easier than their own node package.
+• Option to configure max tokens, temperature, and even estimates aproximate cost for the API call.
 • Returns the output from OpenAI in the form of a stream through a callback function.
 • This output can easily be integrated in a project without the need for parsing like other packages.
 • Created `GPT-website` as a demo of its capabilities using this package as the backend.
