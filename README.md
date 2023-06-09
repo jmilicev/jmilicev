@@ -24,6 +24,13 @@ and experience to showcase to potential clients and employers.
 • Continuously updated and maintained the website, adding new projects and improving functionality to enhance user 
 experience and showcase new skills and experience
 
+GPT-website | Next, JS, OpenAI API
+• Developed a React website that allows users to interact with OpenAI language models.
+• The website allows users to have conversations with OpenAI language models and get responses based on the input they provide.
+• Allows users to configure their spending in tokens and the creativity of the model.
+• Estimates the cost to the user depending on the size of the prompt and the response.
+• Actively being developed!
+
 Distributed Go Chat Website | Go, JS, Kubernetes
 • Developed a chat-app with golang backend and javascript frontend using websockets
 • Capable of sending timestamped messages that are stored on server, with additional feature of sending ’ephemeral’
