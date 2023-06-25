@@ -45,7 +45,7 @@ Distributed Go Chat Website | Go, JS, Kubernetes
 messages that are only broadcasted to clients and not stored on the server
 • Built using Docker and deployed on a Kubernetes cluster using a private goHarbour repository
 
-discord-gpt | Python, Discord API
+discord-gpt | NodeJS, discord.js
 • Discord bot capable of querying OpenAI language models.
 • Configurable using clients own API key, which is saved on a secure encrypted database.
 • Hosted on linode for high degree of availability, available 24/7.
@@ -62,7 +62,7 @@ Poker | Java, Swing
 • Designed efficient algorithms on back-end for hand evaluation
 • Implemented AI players who play uniquely based on randomly generated personality traits
 
-FinanceBot | Python, Discord API
+FinanceBot | Python, discord.py
 • Discord bot capable of performing a multitude of finance related commands
 • Used asynchronous programming to serve multiple user requests simultaneously
 • Answers questions about stock price, stock options, company type and performs various financial calculations
