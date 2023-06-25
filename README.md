@@ -45,6 +45,12 @@ Distributed Go Chat Website | Go, JS, Kubernetes
 messages that are only broadcasted to clients and not stored on the server
 • Built using Docker and deployed on a Kubernetes cluster using a private goHarbour repository
 
+discord-gpt | Python, Discord API
+• Discord bot capable of querying OpenAI language models.
+• Configurable using clients own API key, which is saved on a secure encrypted database.
+• Hosted on linode for high degree of availability, available 24/7.
+• Invite it to your server here: https://shorturl.at/artuC
+
 Novel Programming Language | Java, ANTLR4
 • Developed a novel programming language using the ANTLR4 parser and Java
 • Language capable of performing variable declarations, assignment, math operations and boolean operations
