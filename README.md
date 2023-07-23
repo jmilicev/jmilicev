@@ -32,6 +32,12 @@ openai-toolkit | JS, HTTP
 • This output can easily be integrated in a project without the need for parsing like other packages.
 • Created `GPT-website` as a demo of its capabilities using this package as the backend.
 
+JScraper | Axios, Cheerio, JS
+• Developed an internet web-scraper capable of extracting text from the internet pertaining to an array of keywords.
+• Primarily developed to source data to train LLMs and other data intensive applications.
+• Highly configurable and adaptable, allowing the user to specify the search engine, depth, quantity of webpages searched, etc.
+• npm install jscraper
+
 GPT-website | Next, JS, OpenAI API
 • Developed a React website that allows users to interact with OpenAI language models.
 • Used my own node package openai-toolkit to handle API calls to the OpenAI service.
