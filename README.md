@@ -1,5 +1,4 @@
 # Jovan Milicev
-[Resume](https://github.com/jmilicev/resume/blob/main/resume.pdf) |
 [LinkedIn](https://www.linkedin.com/in/jovan-milicev/) |
 [Website](https://jovanmilicev.com/)
 
